@@ -3,6 +3,7 @@
 print('Hello Python!') # This line prints a string
 import sys
 print(sys.version)
+import numpy as np
 type(12.0)
 
 #%%
