@@ -6,13 +6,13 @@ import numpy
 
 #%%
 
-  dsn_hostname =  "dashdb-txn-sbox-yp-dal09-04.services.dal.bluemix.net"
-  dsn_pwd =  "d7wfdm25bhgd23-x"
-  dsn_port = 50000
-  dsn_database =  "BLUDB"
-  dsn_uid =  "nwp52966"
-  dsn_driver = "{IBM DB2 ODBC DRIVER}"
-  dsn_protocol = "TCPIP"
+dsn_hostname =  "dashdb-txn-sbox-yp-dal09-04.services.dal.bluemix.net"
+dsn_pwd =  "d7wfdm25bhgd23-x"
+dsn_port = 50000
+dsn_database =  "BLUDB"
+dsn_uid =  "nwp52966"
+dsn_driver = "{IBM DB2 ODBC DRIVER}"
+dsn_protocol = "TCPIP"
 
 
 #%%
